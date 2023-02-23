@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Janette Lynch"
-title: "Senior Director"
+name: "Lorraine Chen"
+title: "Sociology Paraprofessional"
 avatar: {
-    src: "https://images.unsplash.com/photo-1580489944761-15a19d654956?&fit=crop&w=280",
-    alt: "Janette Lynch"
+    src: "https://drive.google.com/file/d/1xOH8RU3R6vTYXHwpCpe6sE-vs8eCDXZ_/view?usp=sharing",
+    alt: "Lorraine Chen"
 }
 publishDate: "2022-11-07 15:39"
 ---
